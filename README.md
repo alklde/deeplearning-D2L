@@ -1,6 +1,6 @@
 # deeplearning-D2L
 
-动手学深度学习（Dive into Deep Learning）—— PyTorch 版学习笔记
+动手学深度学习 —— 学习笔记
 
 ## 目录
 
