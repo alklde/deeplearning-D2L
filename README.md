@@ -32,5 +32,5 @@ pip install torch torchvision matplotlib pandas
 
 ## 相关资源
 
-- [《动手学深度学习》官方书](https://d2l.ai/)
+- [《动手学深度学习》官方书](https://zh.d2l.ai/)
 - [PyTorch 官方文档](https://pytorch.org/docs/stable/)
